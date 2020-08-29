@@ -1,0 +1,14 @@
+{
+ "cmd": ["python3", "-u", "$file" ],
+ "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+ "working_dir": "${file_path}",
+ "selector": "source.python",
+
+ "variants":
+	[
+		{
+			"name": "Run",
+			"cmd": ["x-terminal-emulator", "-e", "bash", "-c", "python3 '${file}'  <input.txt> output.txt; "]
+		}
+	]
+}
