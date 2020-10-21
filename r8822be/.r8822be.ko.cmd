@@ -1,0 +1,1 @@
+cmd_/home/shashank/Desktop/Wifi/r8822be/r8822be.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/shashank/Desktop/Wifi/r8822be/r8822be.ko /home/shashank/Desktop/Wifi/r8822be/r8822be.o /home/shashank/Desktop/Wifi/r8822be/r8822be.mod.o;  true
