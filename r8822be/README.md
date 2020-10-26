@@ -12,6 +12,9 @@ The new driver doesn't support creating access points over 5GHz anymore, but wha
 So, as a stop-gap solution, I'll keep a copy of this driver for the time being, until these issues are resolved.
 
 
+**************************** NOTE: Not all files are present write now. Please contact if you need them urgently************
+
+
 Installation
 ------------
 
