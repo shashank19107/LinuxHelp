@@ -22,6 +22,8 @@ $sudo ./make install
 $sudo modprobe -r rtw_8822be
 $sudo modprobe rtw_8822be
 
+This may be updated by now, Hence I will recommend you to follow the original repo:  https://github.com/mid-kid/r8822be.git
+
 NOTE: last kernel for which it worked is 5.4.51.0 (genric)
 
 
