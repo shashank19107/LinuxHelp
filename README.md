@@ -22,6 +22,6 @@ $sudo ./make install
 $sudo modprobe -r rtw_8822be
 $sudo modprobe rtw_8822be
 
-NOTE: last kernel for which it worked is 5.0.51.0 (genric)
+NOTE: last kernel for which it worked is 5.4.51.0 (genric)
 
 
